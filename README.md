@@ -10,9 +10,9 @@ Instructions:
  - Add your client id (Application ID in Azure Registered app) and client secret (Generated Key in Azure Registered App) to root directory and build.
  - For the current scope (Directory.Read.All), you will need to add the following scopes to your registered app:
 
-    ![AAD Scope](docs/img/AAD Scope.png?raw=true "Title")
+    ![AAD Scope](docs/img/AADScope.png?raw=true "Title")
  
-    ![Graph Scope](docs/img/Graph Scope.png?raw=true "Title")
+    ![Graph Scope](docs/img/GraphScope.png?raw=true "Title")
  
  - Build project in Visual Studio
  - Resulting .mez file will need to be moved from "<project>/bin/Release" to "User/Documents/PowerBI Desktop/Custom Connectors". 
