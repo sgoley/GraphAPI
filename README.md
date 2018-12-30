@@ -19,4 +19,4 @@ Instructions:
  - Turn on PowerBI preview feature (Allow Custom Connectors)
  - Search for Graph Connector in Get Data
 
-This allows you to access the login times + metrics as in the Microsoft [!Azure Active Directory Activity Logs](https://appsource.microsoft.com/en-us/product/power-bi/e7cf3f33-014a-4c43-8f48-da3d31496d4e?tab=Overview) Content Pack. 
+This allows you to access the login times + metrics as in the Microsoft [Azure Active Directory Activity Logs](https://appsource.microsoft.com/en-us/product/power-bi/e7cf3f33-014a-4c43-8f48-da3d31496d4e?tab=Overview) Content Pack. 
